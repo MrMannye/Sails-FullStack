@@ -1,4 +1,4 @@
-# rides-project
+# Rides-Project
 
 a [Sails v1](https://sailsjs.com) application
 
